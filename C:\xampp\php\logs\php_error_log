@@ -1,0 +1,32 @@
+[21-Aug-2014 02:01:53 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() expects parameter 1 to be string, array given' in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php:2
+Stack trace:
+#0 /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php(2): DateTime->__construct(Array)
+#1 {main}
+  thrown in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:06:42 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:06:53 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:06:53 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 02:07:01 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:07:01 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 02:07:10 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:07:10 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 02:07:17 Europe/Berlin] PHP Notice:  Array to string conversion in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 02:07:17 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 02:07:29 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 02:07:40 Europe/Berlin] PHP Warning:  getdate() expects parameter 1 to be long, string given in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 3
+[21-Aug-2014 04:21:26 Europe/Berlin] PHP Notice:  Undefined property: Adm::$idAdm in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 42
+[21-Aug-2014 04:21:26 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/principal.php on line 2
+[21-Aug-2014 04:21:26 Europe/Berlin] PHP Notice:  Undefined index: nome in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/HtmlLayout/HtmlLayout.class.php on line 52
+[21-Aug-2014 04:21:31 Europe/Berlin] PHP Notice:  Undefined property: Adm::$idAdm in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 42
+[21-Aug-2014 04:21:31 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/principal.php on line 2
+[21-Aug-2014 04:21:31 Europe/Berlin] PHP Notice:  Undefined index: nome in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/HtmlLayout/HtmlLayout.class.php on line 52
+[21-Aug-2014 04:21:36 Europe/Berlin] PHP Notice:  Undefined property: Adm::$idAdm in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 42
+[21-Aug-2014 04:21:36 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/principal.php on line 2
+[21-Aug-2014 04:21:36 Europe/Berlin] PHP Notice:  Undefined index: nome in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/HtmlLayout/HtmlLayout.class.php on line 52
+[21-Aug-2014 04:22:22 Europe/Berlin] PHP Notice:  Undefined property: Adm::$idAdm in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 42
+[21-Aug-2014 04:22:22 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/principal.php on line 2
+[21-Aug-2014 04:22:22 Europe/Berlin] PHP Notice:  Undefined index: nome in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/HtmlLayout/HtmlLayout.class.php on line 52
+[21-Aug-2014 04:22:53 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 4
+[21-Aug-2014 04:22:55 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 4
+[21-Aug-2014 04:23:25 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
+[21-Aug-2014 04:34:43 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp/sess_rvvhceuojol9dmmdaua82kngr1, O_RDWR) failed: No such file or directory (2) in /Library/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/sadeep/ENG/index.php on line 2
